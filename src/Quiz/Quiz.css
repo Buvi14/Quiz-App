@@ -1,0 +1,71 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.header {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  background: #d8cde3;
+}
+
+.container span {
+  color: blueviolet;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* this is the style for Answer.jsx */
+
+.solution {
+  display: flex;
+  justify-content: space-around;
+  background: #dadada;
+  height: 6vh;
+  align-items: center;
+}
+
+.solution > button {
+  background: #2196f3;
+  width: 20vw;
+  text-align: center;
+  height: 25px;
+  border-radius: 4px;
+  border: none;
+}
+
+.solution > button .correct {
+  background: green;
+}
+
+/* css for result component */
+.result-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(
+    90deg,
+    rgba(175, 196, 84, 0.9671218829328606) 4%,
+    rgba(116, 180, 58, 0.9783263647255778) 31%,
+    rgba(111, 190, 92, 1) 53%,
+    rgba(134, 215, 85, 0.919502835313813) 83%,
+    rgba(200, 213, 130, 1) 100%
+  );
+}
+
+.result-header {
+  font-size: 30px;
+  font-weight: 600;
+  color: #322e2d;
+  letter-spacing: 0.5px;
+}
+
+.result-score {
+  font-size: 20px;
+  font-weight: 500;
+}
