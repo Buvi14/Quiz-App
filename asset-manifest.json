@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Buvi14/Quiz-App/static/css/main.c90e689d.css",
+    "main.js": "/Buvi14/Quiz-App/static/js/main.667e8294.js",
+    "static/js/787.a39f1fa9.chunk.js": "/Buvi14/Quiz-App/static/js/787.a39f1fa9.chunk.js",
+    "index.html": "/Buvi14/Quiz-App/index.html",
+    "main.c90e689d.css.map": "/Buvi14/Quiz-App/static/css/main.c90e689d.css.map",
+    "main.667e8294.js.map": "/Buvi14/Quiz-App/static/js/main.667e8294.js.map",
+    "787.a39f1fa9.chunk.js.map": "/Buvi14/Quiz-App/static/js/787.a39f1fa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90e689d.css",
+    "static/js/main.667e8294.js"
+  ]
+}
